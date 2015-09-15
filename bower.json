@@ -1,0 +1,13 @@
+{
+  "name": "css-arrow-mixin",
+  "version": "1.0.0",
+  "license" : "MIT",
+  "main": [
+    "_css-arrow-mixin.scss"
+  ],
+  "ignore": [
+    "**/.*",
+    "**/*.md",
+    "**/*.json"
+  ]
+}
