@@ -1,0 +1,20 @@
+{
+  "name": "css-arrow-mixin",
+  "version": "1.0.0",
+  "description": "A flexible CSS arrow mixin.",
+  "main": "_css-arrow-mixin.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerrylow/css-arrow-mixin.git"
+  },
+  "keywords": [
+    "sass",
+    "css"
+  ],
+  "author": "Jerry Low <hello@jerrylow.com> (http://www.jerrylow.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerrylow/css-arrow-mixin/issues"
+  },
+  "homepage": "https://github.com/jerrylow/css-arrow-mixin"
+}
