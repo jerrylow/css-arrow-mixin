@@ -1,13 +1,28 @@
 {
   "name": "css-arrow-mixin",
   "version": "1.0.0",
-  "license" : "MIT",
+  "license": "MIT",
   "main": [
     "_css-arrow-mixin.scss"
   ],
   "ignore": [
     "**/.*",
     "**/*.md",
-    "**/*.json"
+    "**/*.json",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/jerrylow/css-arrow-mixin",
+  "authors": [
+    "jerrylow <lowjer@gmail.com>"
+  ],
+  "description": "A flexible CSS arrow mixin with borders.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "css"
   ]
 }
