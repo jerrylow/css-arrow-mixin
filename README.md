@@ -48,7 +48,7 @@ When adding this mixing to an element the parent element will be set to `positio
 
 ## Example
 
-**[CodePen Examples](hhttp://codepen.io/jerrylow/pen/RWrWvw)**
+**[CodePen Examples](http://codepen.io/jerrylow/pen/RWrWvw)**
 
 All examples are based off of a div with the class .arrow:
 
